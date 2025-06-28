@@ -1,5 +1,4 @@
-
-<h1 align="center">Hi 👋, I'm Nikhil Reddy Karra</h1>
+<h1 align="center">Hi ✋, I'm Nikhil Reddy Karra</h1>
 <h3 align="center">🚀 Lead Cloud DevOps Engineer | Open Source Contributor | Platform Automation Specialist</h3>
 
 <p align="center">
@@ -25,9 +24,29 @@ DevOps Innovator Specializing in Automation, Cloud Infrastructure, and Scalable 
 
 ---
 
+## 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" />
+</p>
+
+---
+
 ## 🛠 Tools I Love
 
-- 🧭 **Lens**: Kubernetes cluster visualization and management made simple  
+- 🧽 **Lens**: Kubernetes cluster visualization and management made simple  
 - 🌟 **Starship**: Custom shell prompt built for productivity in DevOps  
 - 🎯 **ArgoCD**: GitOps-style continuous deployment for Kubernetes  
 - 💻 **VS Code**: Powered by my custom [Starburst Extension](https://marketplace.visualstudio.com/items?itemName=karranikhil99.starburst-one)  
@@ -47,13 +66,27 @@ DevOps Innovator Specializing in Automation, Cloud Infrastructure, and Scalable 
 
 ---
 
+## 💼 Work Experience
+
+| 🏢 Company                     | 👨‍💼 Role                                | 🗓️ Duration               | 🌟 Highlights |
+|------------------------------|----------------------------------------|---------------------------|----------------|
+| **Bank of America**          | Team Lead – Starburst & OpenShift      | Apr 2025 – Present        | Helm deployments, Grafana Dashboards, Starburst, Trino |
+| **Bank of America**          | Cloud/DevOps Engineer                  | Aug 2024 – Apr 2025       | CI/CD with Jenkins, Docker |
+| **Trino Software Foundation**| Open Source Contributor                | Jun 2025 – Present        | CLI Tools for Starburst |
+| **Python Software Foundation**| Contributor                            | Mar 2025 – Present        | Published Starburst Scheduler |
+| **Sapphire Software**        | Cloud DevOps Engineer                  | Aug 2023 – Aug 2024       | Terraform, OpenShift, CI/CD |
+| **Singareni Collieries**     | DevOps Engineer                        | Jun 2019 – Jul 2022       | Spark, Kafka, Prometheus |
+| **Tech Indya**               | System Engineer                        | May 2016 – Jun 2019       | Linux infra automation |
+
+---
+
 ## 📝 Recent Blog Posts
 
 - ✍️ **Automating EKS with Terraform: A Step-by-Step Guide**
 - 📈 **Scaling Starburst with Kubernetes: Best Practices**
 - 🔍 **Monitoring Kubernetes with Prometheus and Grafana**
 
-👉 [Read more on my blog!](https://nikhilkarra.com/blog)
+👉 [Read more on my blog!](https://nikhilkarra.com)
 
 ---
 
