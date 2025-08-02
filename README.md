@@ -1,10 +1,6 @@
 <h1 align="center">Hi ✋, I'm Nikhil Reddy Karra</h1>
 <h3 align="center"> Lead Cloud DevOps Engineer | Open Source Contributor | Platform Automation Specialist</h3>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Profile_Views-102,345-success?style=for-the-badge&logo=github" />
-</p>
-
 ---
 
 ##  What I Do
@@ -100,7 +96,6 @@ DevOps Innovator Specializing in Automation, Cloud Infrastructure, and Scalable 
 ##  GitHub Stats (Real-Time)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karranikhil99&theme=gruvbox&show_icons=true&count_private=true&hide_border=true&custom_title=Nikhil's GitHub Stats" height="160"/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=karranikhil99&theme=gruvbox&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karranikhil99&layout=compact&theme=gruvbox&hide_border=true" height="160"/>
 </p>
